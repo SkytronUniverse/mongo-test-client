@@ -1,0 +1,7 @@
+database:
+  server: "mongodb://127.0.0.1"
+  port: "27017"
+
+details:
+  database_name: "inventory"
+  collection_name: "products"
